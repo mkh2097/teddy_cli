@@ -14,8 +14,10 @@ Download teddy from mac folder and open it via Terminal, Type ./teddy [Assignmen
 # GNU/Linux
 Download teddy from linux folder and open it via Terminal, Type ./teddy [Assignment Directory Name]
 
-If successful You will see new directory "[Assignment Directory Name] Sorted" as output in same directory.
 
+*If successful You will see new directory "[Assignment Directory Name] Sorted" as output in same directory.
+
+# Caution
 Note that both Assignment Directory and Excecutable Script should be in the same directory for now.
 Adding to path script will be released soon.
 
