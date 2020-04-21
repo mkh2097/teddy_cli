@@ -8,7 +8,7 @@ This script works with specific pattern :
 Follow these instructions for your OS :
 
 # Windows
-Download teddy.exe from dist folder and open it via CMD/PowerShell, Type teddy [Assignment Directory Name]
+Download teddy.exe from dist folder and open it via CMD or PowerShell, Type teddy [Assignment Directory Name] or ./teddy.exe [Assignment Directory Name] respectively.
 # mac OS
 Download teddy from mac folder and open it via Terminal, Type ./teddy [Assignment Directory Name]
 # GNU/Linux
