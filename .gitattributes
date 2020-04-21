@@ -1,0 +1,4 @@
+*.xml linguist-detectable=false
+*.html linguist-detectable=false
+*.txt linguist-detectable=false
+*.py linguist-detectable=true
